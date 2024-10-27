@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+link to codecademy lesson:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://www.codecademy.com/courses/learn-intermediate-css/projects/transitions-book
 
-## Available Scripts
 
-In the project directory, you can run:
+### Learn Intermediate CSS
 
-### `npm start`
+**Transitions - 20,000 Leagues Under the Sea**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+In this project you will follow step-by-step instructions to add animations to an existing static web page. The web page is an online reader; it presents the full text of the book “20,000 Leagues Under the Sea” by Jules Verne.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page for the first chapter is mostly complete. There are a few fancy features:
 
-### `npm test`
+- When you hover over the sidebar on the left, a menu opens which contains the Table of Contents.
+- When you hover over a highlighted word in the text, a definition appears. See the words “phosphorescent” and “locomotion”.
+- When you hover over the semi-transparent buttons at the bottom of the page, they turn opaque.
+- When you hover over any link, it changes color.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+These interactions add a level of refinement to an otherwise static page. Your job will be to refine them even more. Currently, all these changes happen in an instant. Add transitions to make the changes smooth.
 
-### `npm run build`
+The website’s existing index.html and style.css files are displayed in the text editor.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Walkthrough Video
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+HTML CSS Lesson Transitions
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://www.youtube.com/watch?v=F_cviodZ4Og
