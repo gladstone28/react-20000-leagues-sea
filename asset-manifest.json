@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-20000-leagues-sea/static/css/main.4ca14ec4.css",
+    "main.js": "/react-20000-leagues-sea/static/js/main.c5e426c1.js",
+    "index.html": "/react-20000-leagues-sea/index.html",
+    "main.4ca14ec4.css.map": "/react-20000-leagues-sea/static/css/main.4ca14ec4.css.map",
+    "main.c5e426c1.js.map": "/react-20000-leagues-sea/static/js/main.c5e426c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ca14ec4.css",
+    "static/js/main.c5e426c1.js"
+  ]
+}
