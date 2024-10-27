@@ -1,0 +1,38 @@
+.banner {
+  padding: 3.125rem 13rem;
+  background-color: #142033;
+  text-align: center;
+  font-weight: bold;
+  line-height: 2.1;
+  color: #b3d0ff;
+}
+
+.banner h1 {
+  font-size: 6rem;
+  line-height: 1;
+  font-weight: 500;
+  color: #66a1ff;
+}
+
+.banner em {
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+.banner h2 {
+  font-size: 3rem;
+}
+
+@media only screen and (max-width: 810px) {
+  .banner {
+    padding: 3.125rem 8rem 3.125rem 10rem;
+  }
+
+  .banner h1 {
+    font-size: 4rem;
+  }
+
+  .banner h2 {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,46 @@
+.book-content {
+  padding: 4.75rem 20%;
+  background-color: #f2f7ff;
+  font-family: "Proza Libre", sans-serif;
+  font-size: 1.5rem;
+  line-height: 2;
+  color: #4a4a4a;
+}
+
+.book-content h3 {
+  text-align: center;
+  font-size: 3rem;
+  line-height: 2.1;
+  font-weight: bold;
+  color: #142033;
+}
+
+.chapter {
+  color: #639eff;
+}
+
+.chapter .number {
+  display: block;
+  font-size: 1.25rem;
+}
+
+.chapter .name {
+  display: block;
+  font-size: 2.25rem;
+}
+
+.prose {
+  margin-bottom: 4.75rem;
+}
+
+@media only screen and (max-width: 810px) {
+  .book-content {
+    padding-right: 10%;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .book-content {
+    padding-right: 1%;
+  }
+}
